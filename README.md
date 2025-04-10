@@ -18,6 +18,5 @@ A .NET MVC web application that displays random user data from the [Random User 
 
 2. **Clone the repository**
    ```bash
-
-[//]: # (   git clone https://github.com/your-repo/random-user-app.git)
+   https://github.com/menukipeiris/Web_App.git
    cd random-user-app
